@@ -1,0 +1,1 @@
+chrome-extension://oiecklaabeielolbliiddlbokpfnmhba/ui/content-script/index.js
